@@ -16,5 +16,14 @@
         "key": "dee",
         "expirydate": "15-11-2025",
         "Allowoffline": true
+    } ,
+
+
+ {
+        "device_id": "70bcc75ff1348b9a",
+        "key": "taylor",
+        "expirydate": "12-12-2025",
+        "Allowoffline": false
     }
+
 ]
